@@ -1,6 +1,6 @@
 package main
 
-import gormex "github.com/teeranuwat/gorm-example"
+import gormex "gorm-example"
 
 func main() {
 	gormex.InitialDB()
